@@ -6,7 +6,7 @@ This is the code for [this](https://youtu.be/yEUKougrRSk) video on Youtube by Si
 
 ## Instructions
 
-Upload the notebook to Google [Colab](https://colab.research.google.com). That way, you don't need to deal with locl configuration issues. 
+Upload the notebook to Google [Colab](https://colab.research.google.com). That way, you don't need to deal with local configuration issues. 
 
 ## Credits 
 
